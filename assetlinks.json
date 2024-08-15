@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.three60.cabioclient",
+            "sha256_cert_fingerprints": [
+                "47:FB:08:BB:C0:BB:FE:18:B6:C4:BE:84:AB:18:53:AA:55:FA:CF:84:9E:2D:47:7E:0C:FE:9F:7E:10:AE:7B:9B"
+            ]
+        }
+    }
+]
